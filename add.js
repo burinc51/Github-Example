@@ -1,1 +1,2 @@
-console.log("Hellow")
+console.log("Hello")
+console.log("Github")
